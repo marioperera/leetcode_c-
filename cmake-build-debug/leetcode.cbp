@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="leetcode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode">
+				<Option output="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/leetcode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 leetcode"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="leetcode/fast">
+				<Option output="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/leetcode.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2017\BuildTools\VC\Tools\MSVC\14.16.27023\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.17763.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 leetcode/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\mario_p\CLionProjects\leetcode\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/main.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
