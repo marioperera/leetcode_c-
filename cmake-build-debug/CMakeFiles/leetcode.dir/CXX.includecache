@@ -15,14 +15,24 @@ packages/stringfunctions.h
 C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.h
 packages/matchsticks_21.h
 C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.h
+packages/vectors.h
+C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h
+packages/Solution.h
+C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
+
+C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.cpp
+Solution.h
+C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
+
+C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
+iostream
+C:/Users/mario_p/CLionProjects/leetcode/packages/iostream
+vectors.h
+C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h
 
 C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.h
 iostream
 C:/Users/mario_p/CLionProjects/leetcode/packages/iostream
-
-C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.cpp
-matchsticks_21.h
-C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.h
 
 C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.h
 xstring
@@ -33,4 +43,10 @@ iostream
 C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.h
 iostream
 C:/Users/mario_p/CLionProjects/leetcode/packages/iostream
+
+C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h
+vector
+-
+iostream
+-
 

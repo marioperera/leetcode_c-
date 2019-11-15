@@ -151,6 +151,33 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\main.cpp.s
 .PHONY : main.cpp.s
 
+packages\Solution.obj: packages\Solution.cpp.obj
+
+.PHONY : packages\Solution.obj
+
+# target to build an object file
+packages\Solution.cpp.obj:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\packages\Solution.cpp.obj
+.PHONY : packages\Solution.cpp.obj
+
+packages\Solution.i: packages\Solution.cpp.i
+
+.PHONY : packages\Solution.i
+
+# target to preprocess a source file
+packages\Solution.cpp.i:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\packages\Solution.cpp.i
+.PHONY : packages\Solution.cpp.i
+
+packages\Solution.s: packages\Solution.cpp.s
+
+.PHONY : packages\Solution.s
+
+# target to generate assembly for a file
+packages\Solution.cpp.s:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\packages\Solution.cpp.s
+.PHONY : packages\Solution.cpp.s
+
 packages\commonprefix.obj: packages\commonprefix.cpp.obj
 
 .PHONY : packages\commonprefix.obj
@@ -271,6 +298,9 @@ help:
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... packages/Solution.obj
+	@echo ... packages/Solution.i
+	@echo ... packages/Solution.s
 	@echo ... packages/commonprefix.obj
 	@echo ... packages/commonprefix.i
 	@echo ... packages/commonprefix.s

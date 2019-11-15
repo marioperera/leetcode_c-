@@ -3,9 +3,15 @@
 
 CMakeFiles/leetcode.dir/main.cpp.obj
  C:/Users/mario_p/CLionProjects/leetcode/main.cpp
+ C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
  C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.h
  C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.h
  C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.h
+ C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h
+CMakeFiles/leetcode.dir/packages/Solution.cpp.obj
+ C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.cpp
+ C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
+ C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h
 CMakeFiles/leetcode.dir/packages/commonprefix.cpp.obj
  C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.cpp
  C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.h
@@ -15,3 +21,6 @@ CMakeFiles/leetcode.dir/packages/matchsticks_21.cpp.obj
 CMakeFiles/leetcode.dir/packages/stringfunctions.cpp.obj
  C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.cpp
  C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.h
+CMakeFiles/leetcode.dir/packages/vectors.cpp.obj
+ C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.cpp
+ C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h

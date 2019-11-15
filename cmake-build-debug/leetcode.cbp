@@ -83,6 +83,12 @@
 		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/main.cpp">
 			<Option target="leetcode"/>
 		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.cpp">
 			<Option target="leetcode"/>
 		</Unit>

@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/mario_p/CLionProjects/leetcode/main.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/main.cpp.obj"
+  "C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/packages/Solution.cpp.obj"
   "C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/packages/commonprefix.cpp.obj"
   "C:/Users/mario_p/CLionProjects/leetcode/packages/matchsticks_21.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/packages/matchsticks_21.cpp.obj"
   "C:/Users/mario_p/CLionProjects/leetcode/packages/stringfunctions.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/packages/stringfunctions.cpp.obj"
