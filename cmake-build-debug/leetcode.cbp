@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.cpp">
+			<Option target="leetcode"/>
+		</Unit>
+		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.h">
+			<Option target="leetcode"/>
+		</Unit>
 		<Unit filename="C:/Users/mario_p/CLionProjects/leetcode/main.cpp">
 			<Option target="leetcode"/>
 		</Unit>

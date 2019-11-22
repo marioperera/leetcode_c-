@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/algo/reset_ip.cpp.obj"
   "C:/Users/mario_p/CLionProjects/leetcode/main.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/main.cpp.obj"
   "C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/packages/Solution.cpp.obj"
   "C:/Users/mario_p/CLionProjects/leetcode/packages/commonprefix.cpp" "C:/Users/mario_p/CLionProjects/leetcode/cmake-build-debug/CMakeFiles/leetcode.dir/packages/commonprefix.cpp.obj"

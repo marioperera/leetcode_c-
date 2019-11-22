@@ -6,6 +6,16 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.cpp
+reset_ip.h
+C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.h
+
+C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.h
+iostream
+C:/Users/mario_p/CLionProjects/leetcode/algo/iostream
+vector
+C:/Users/mario_p/CLionProjects/leetcode/algo/vector
+
 C:/Users/mario_p/CLionProjects/leetcode/main.cpp
 iostream
 -
@@ -19,10 +29,8 @@ packages/vectors.h
 C:/Users/mario_p/CLionProjects/leetcode/packages/vectors.h
 packages/Solution.h
 C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
-
-C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.cpp
-Solution.h
-C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
+algo/reset_ip.h
+C:/Users/mario_p/CLionProjects/leetcode/algo/reset_ip.h
 
 C:/Users/mario_p/CLionProjects/leetcode/packages/Solution.h
 iostream

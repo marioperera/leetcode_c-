@@ -124,6 +124,33 @@ leetcode\fast:
 	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\build
 .PHONY : leetcode\fast
 
+algo\reset_ip.obj: algo\reset_ip.cpp.obj
+
+.PHONY : algo\reset_ip.obj
+
+# target to build an object file
+algo\reset_ip.cpp.obj:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\algo\reset_ip.cpp.obj
+.PHONY : algo\reset_ip.cpp.obj
+
+algo\reset_ip.i: algo\reset_ip.cpp.i
+
+.PHONY : algo\reset_ip.i
+
+# target to preprocess a source file
+algo\reset_ip.cpp.i:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\algo\reset_ip.cpp.i
+.PHONY : algo\reset_ip.cpp.i
+
+algo\reset_ip.s: algo\reset_ip.cpp.s
+
+.PHONY : algo\reset_ip.s
+
+# target to generate assembly for a file
+algo\reset_ip.cpp.s:
+	$(MAKE) -f CMakeFiles\leetcode.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\leetcode.dir\algo\reset_ip.cpp.s
+.PHONY : algo\reset_ip.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -295,6 +322,9 @@ help:
 	@echo ... leetcode
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... algo/reset_ip.obj
+	@echo ... algo/reset_ip.i
+	@echo ... algo/reset_ip.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
